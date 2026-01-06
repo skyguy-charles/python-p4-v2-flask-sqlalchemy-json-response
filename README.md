@@ -10,7 +10,7 @@
 ## Key Vocab
 
 - **JSON**: JavaScript Object Notation, is a _data interchange format_ often
-  used for transmitting data between a client and a server.
+  used for transmitting data between a client and a server......
 - **Dictionary**: A data structure used to store data values in key:value pairs.
 
 ---
